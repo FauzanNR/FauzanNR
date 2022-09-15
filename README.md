@@ -1,21 +1,9 @@
-### Hi there 👋
-
-<!--
-**FauzanNR/FauzanNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- **FauzanNR/FauzanNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <br/>
 </em></p>
+
+<h1 align="center">Hi there👋, I'm Fauzan Nur Rifai</h1>
+<h3 align="center">A Final year of Informatic Engineering student who is interested in game development, android development, machine learning, and computer graphics.</h3>
 
 ## Connect with me
   <a href="https://www.linkedin.com/in/fauzan-nur-rifai-047635207/" target="_blank"> 
@@ -29,30 +17,68 @@ Here are some ideas to get you started:
   </a>
 
 
-## 👨🏻‍💻 Language
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
-  </a>
-  <a href="https://dart.dev/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
-  </a>
-    <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  </a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.inklestudios.com/ink/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.inklestudios.com/ink/img/ink-logo.png" alt="Ink" width="55" height="40"/> 
+  </a> 
+  <a href="https://www.photonengine.com/PUN" target="_blank" rel="noreferrer"> 
+    <img src="https://doc.photonengine.com/v2/img/nav-logo-photon.svg" alt="Photon PUN" width="80" height="45"/> 
+  </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://circleci.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+  
+  
 </p>
 
 
-## 🛠 Technologies Skills
+
+<!--
+## 🛠 Game Development Technologies Skills
+- Unity3D Engine
+- Basic Photon Engine
+- Inkle Dialogue
+- Game Design
+- 
+
+## 🛠 Android Development Technologies Skills
 - Instrumentations Testing
 - Unit Testing
 - Pagination
@@ -65,15 +91,19 @@ Here are some ideas to get you started:
 - Encryption
 - Obfuscation
 - SSL Pinning
-- 
-
+-->
 
 ## 📖 Industry Knowledge
 - System Design
-- UI/UX
-- Agile Development
 - Design Pattern
+- Game Design
+- Team Management
+- Project Planning
+- Agile Development
 - Scrum Methodology
 
-----------------------------------------
-![](https://github-readme-stats.vercel.app/api?username=FauzanNR&theme=gruvbox&show_icons=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzannr&show_icons=true&locale=en&layout=compact" alt="fauzannr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzannr&show_icons=true&locale=en" alt="fauzannr" /></p>
+
+
