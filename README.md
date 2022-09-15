@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 - Scrum Methodology
 
 ----------------------------------------
-![](https://github-readme-stats.vercel.app/api?username=FauzanNR7&theme=gruvbox&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=FauzanNR&theme=gruvbox&show_icons=true)
