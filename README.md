@@ -1,7 +1,4 @@
 <!-- **FauzanNR/FauzanNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<br/>
-</em></p>
-
 <h1 align="center">Hi there👋, I'm Fauzan Nur Rifai</h1>
 <h3 align="center">A Final year of Informatic Engineering student who is interested in game development, android development, machine learning, and computer graphics.</h3>
 
