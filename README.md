@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/dartoyo_/" target="_blank"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href=" https://dartoyo.itch.io/" target="_blank"> 
+  <a href="https://dartoyo.itch.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
   </a>
  
