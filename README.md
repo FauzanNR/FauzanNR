@@ -6,10 +6,13 @@
   <a href="https://www.linkedin.com/in/fauzan-nur-rifai-047635207/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a>
-   <a href="https://www.instagram.com/dartoyo_/" target="_blank"> 
+  <a href="https://www.instagram.com/dartoyo_/" target="_blank"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
+  <a href=" https://dartoyo.itch.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+  </a>
+ 
 
 ## 🛠 Languages and Tools
 <p align="left"> 
