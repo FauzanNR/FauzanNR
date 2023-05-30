@@ -2,6 +2,7 @@
 <h1 align="center">Hi there👋, I'm Fauzan Nur Rifai</h1>
 <h3 align="center">A Final year of Informatic Engineering student who is interested in game development, android development, machine learning, and computer graphics.</h3>
 
+
 ## 🛠 Languages and Tools
 <p align="left"> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
@@ -88,6 +89,11 @@
 - Game Design
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzannr&show_icons=true&locale=en&layout=compact" alt="fauzannr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzannr&show_icons=true&locale=en" alt="fauzannr" /></p>
+
+
 ## Connect with me
   <a href="https://www.linkedin.com/in/fauzan-nur-rifai-047635207/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
@@ -98,9 +104,4 @@
   <a href="https://dartoyo.itch.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
   </a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzannr&show_icons=true&locale=en&layout=compact" alt="fauzannr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzannr&show_icons=true&locale=en" alt="fauzannr" /></p>
-
 
