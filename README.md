@@ -92,13 +92,13 @@
 -->
 
 ## 📖 Industry Knowledge
+- Project Management
+- Agile Development
+- Scrum Methodology
 - System Design
 - Design Pattern
 - Game Design
-- Team Management
-- Project Planning
-- Agile Development
-- Scrum Methodology
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzannr&show_icons=true&locale=en&layout=compact" alt="fauzannr" /></p>
 
