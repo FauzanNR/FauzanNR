@@ -1,6 +1,6 @@
 <!-- **FauzanNR/FauzanNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1 align="center">Hi there👋, I'm Fauzan Nur Rifai</h1>
-<h3 align="center">A Final year of Informatic Engineering student who is interested in game development, android development, machine learning, and computer graphics.</h3>
+<h3 align="center">Adventurer who is interested in game development, android development, AI, and computer graphics.</h3>
 
 
 ## 🛠 Languages and Tools
@@ -12,7 +12,7 @@
     <img src="https://www.inklestudios.com/ink/img/ink-logo.png" alt="Ink" width="55" height="40"/> 
   </a> 
   <a href="https://www.photonengine.com/PUN" target="_blank" rel="noreferrer"> 
-    <img src="https://doc.photonengine.com/v2/img/nav-logo-photon.svg" alt="Photon PUN" width="80" height="45"/> 
+    <img src="https://www.photonengine.com/v2/img/common/nav-logo-photon.svg" alt="Photon PUN" width="80" height="45"/> 
   </a> 
    <a href="https://processing.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="android" width="40" height="40"/> 
@@ -55,15 +55,12 @@
   </a> 
 </p>
 
-
-
-<!--
 ## 🛠 Game Development Technologies Skills
 - Unity3D Engine
 - Basic Photon Engine
 - Inkle Dialogue
 - Game Design
-- 
+
 
 ## 🛠 Android Development Technologies Skills
 - Instrumentations Testing
@@ -78,7 +75,6 @@
 - Encryption
 - Obfuscation
 - SSL Pinning
--->
 
 ## 📖 Industry Knowledge
 - Project Management
@@ -88,13 +84,12 @@
 - Design Pattern
 - Game Design
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzannr&show_icons=true&locale=en&layout=compact" alt="fauzannr" /></p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzannr&show_icons=true&locale=en" alt="fauzannr" /></p> -->
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzannr&show_icons=true&locale=en" alt="fauzannr" /></p> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzannr&show_icons=true&locale=en&layout=compact" alt="fauzannr" />
+-->
 
 ## Connect with me
+<p>
   <a href="https://www.linkedin.com/in/fauzan-nur-rifai-047635207/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a>
@@ -104,4 +99,6 @@
   <a href="https://dartoyo.itch.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
   </a>
+
+</p>
 
