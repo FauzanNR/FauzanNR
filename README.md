@@ -91,7 +91,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzannr&show_icons=true&locale=en&layout=compact" alt="fauzannr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzannr&show_icons=true&locale=en" alt="fauzannr" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzannr&show_icons=true&locale=en" alt="fauzannr" /></p> -->
 
 
 ## Connect with me
