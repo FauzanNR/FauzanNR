@@ -4,10 +4,7 @@
 
 
 ## 🛠 Languages and Tools
-<p align="left"> 
-  <a href="https://docs.unity3d.com/Packages/com.unity.ml-agents@3.0/manual/index.html" target="_blank" rel="noreferrer"> 
-    <img src="" alt="unity" width="40" height="40"/> 
-  </a> 
+
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://pytorch.org/assets/images/logo-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
