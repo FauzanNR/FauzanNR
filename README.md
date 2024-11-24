@@ -5,8 +5,14 @@
 
 ## 🛠 Languages and Tools
 <p align="left"> 
+  <a href="https://docs.unity3d.com/Packages/com.unity.ml-agents@3.0/manual/index.html" target="_blank" rel="noreferrer"> 
+    <img src="" alt="unity" width="40" height="40"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://pytorch.org/assets/images/logo-icon.svg" alt="unity" width="40" height="40"/> 
+  </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
   </a> 
   <a href="https://www.inklestudios.com/ink/" target="_blank" rel="noreferrer"> 
     <img src="https://www.inklestudios.com/ink/img/ink-logo.png" alt="Ink" width="55" height="40"/> 
@@ -54,12 +60,20 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
 </p>
+## 🛠 AI Development Technologies Skills
+- Pytorch
+- Tensorflow
+- Pandas
+- Scikit-Learn
+- Seaborn
+- ML-Agent
 
 ## 🛠 Game Development Technologies Skills
 - Unity3D Engine
-- Basic Photon Engine
+- Photon Engine
 - Inkle Dialogue
-- Game Design
+- Construct
+- Python Arcade
 
 
 ## 🛠 Android Development Technologies Skills
@@ -71,7 +85,7 @@
 - Modularization
 - Reactive Programming
 - Dependency Injection
-- Continous Integration
+- Continuous Integration
 - Encryption
 - Obfuscation
 - SSL Pinning
