@@ -1,6 +1,6 @@
 <!-- **FauzanNR/FauzanNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1 align="center">Hi there👋, I'm Fauzan Nur Rifai</h1>
-<h3 align="center">Adventurer who is interested in AI, Game Development, Android Development, and Computer Graphics.</h3>
+<h3 align="center">Adventurer who is interested in AI, Data Science, Physics, Game Development, Android Development, and Computer Graphics.</h3>
 
 
 ## 🛠 Languages and Tools
