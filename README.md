@@ -59,6 +59,7 @@
 </p>
 
 ## 🛠 AI Development Technologies Skills
+- Conda
 - Pytorch
 - Tensorflow
 - Pandas
