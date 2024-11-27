@@ -63,6 +63,7 @@
 - Pytorch
 - Tensorflow
 - Pandas
+- Matplotlib
 - Scikit-Learn
 - Seaborn
 - ML-Agent
