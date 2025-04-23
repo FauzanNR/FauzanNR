@@ -58,7 +58,7 @@
   </a> 
 </p>
 
-## 🛠 AI Development Technologies Skills
+## 🛠 Data Science & AI Development Technologies Skills
 - Conda
 - Pytorch
 - Tensorflow
