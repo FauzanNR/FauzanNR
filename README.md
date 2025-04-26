@@ -67,6 +67,10 @@
 - Scikit-Learn
 - Seaborn
 - ML-Agent
+- Streamlit
+- YOLO
+- Sastrawi
+- NLTK
 
 ## 🛠 Game Development Technologies Skills
 - Unity3D Engine
